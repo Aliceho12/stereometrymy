@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aliceho12/stereometrymy.git/static/css/main.48c8f5d4.css",
+    "main.js": "/Aliceho12/stereometrymy.git/static/js/main.434fac94.js",
+    "index.html": "/Aliceho12/stereometrymy.git/index.html",
+    "main.48c8f5d4.css.map": "/Aliceho12/stereometrymy.git/static/css/main.48c8f5d4.css.map",
+    "main.434fac94.js.map": "/Aliceho12/stereometrymy.git/static/js/main.434fac94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c8f5d4.css",
+    "static/js/main.434fac94.js"
+  ]
+}
